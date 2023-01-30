@@ -3,7 +3,7 @@ include "config/server.php";
 // ===============================
 // Status Ujian XStatusUjian = 1 Aktif
 // Status Ujian XStatusUjian = 0 BelumAktif
-// Status Ujian XStatusUjian = 9 Selesai
+// Satus Ujian XStatusUjian = 9 Selesai
 
 $tgl = date("H:i:s");
 $tgl2 = date("Y-m-d");
